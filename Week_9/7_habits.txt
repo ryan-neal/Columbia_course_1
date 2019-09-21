@@ -1,0 +1,79 @@
+I get a lot of book recommendations. Most of them I ignore. Generally speaking, I avoid books that pander. Business literature is like candy - it is full of empty calories. Based on its blog-like title, I assumed that The 7 Habits of Highly Successful People was fluff. I was wrong. For anyone willing to examine their own character and how they treat others to improve their performance. This book is a valuable resource. It provides a roadmap for character development, team building, and self-growth that will help anyone practicing business.
+
+Habit 1: Be Proactive
+
+The great thing about the 7 Habits is they all build on each other. In that regard, proactivity is a cornerstone trait. To understand proactivity, we must understand its inverse, reactivity.
+
+A reactive person is driven by circumstances, conditions, and feelings. They are a different person every day. Everyone has had a boss like this. They check a lot of boxes that all together provide no business value. They look good but accomplish little.
+
+A proactive person, on the other hand, is driven by values. They are just and apply rules consistently, not making exceptions for favorites. They are deliberate when pursuing projects and accept responsibility for success and failure. They choose not to blame others. Reactive people constantly complain about limitations. Proactive people accept limitations and focus on always performing their best.
+
+Habit 2: Begin with the End in Mind
+
+Once a person, understands they alone control their success and failure, they are free to pursue, a comprehensive, not a political solution. Let me explain what I mean. As Tim Ferris explains in the 4 Hour Workweek, we are busy to our detriment. Why do we do this? Because we believe (often correctly) that as long as we look busy, we can succeed regardless of our actual output. The proactive person is not concerned with what others think. They define their own value and control their own success. This leads to an enormous shift in behavior.
+
+First, free of pleasing others, they control their own destiny. They set achievable goals and follow through. Covey also discusses the difference between leadership and management in this chapter. Management is efficiency in doing the right things. Leadership is doing the right things. Efficient management without effective leadership is akin to "straightening deck chairs on the Titanic." As McKinsey explains a large portion of the discrepancy between successful and unsuccessful businesses is a result of leadership versus management. Generally speaking, companies who focus on incremental improvements perform worse than companies who think long-term.
+
+Habit 3: Put First Things First
+
+Understanding the tradeoff between leadership and management brings us to planning. Charlie Munger evaluates many of his business managers on their ability to "eat carrots before dessert". In theory, many of us understand we should do the most important things first. However, we do not necessarily all agree what those things are.
+
+Covey recommends creating a time management matrix. On the x-axis, we have urgent and not urgent tasks. On the y-axis, we have not important and important tasks. Covey, says the optimal quadrant is the not urgent/important one. Why would not urgent/important be better than urgent/important? Largely for the reasons explained earlier. If a company or individual spends all their time in the urgent zone they will become a reactionary manager rather than a proactive leader.
+
+
+What then should a company or individual do if they find themselves constantly in crisis mode? Covey says they should learn to say no more often. Of course, this might not be practical for many people. Nevertheless, Covey provides an example of how to say no. One time he asked an employee to perform a task. The employee took him to a board full of projects. On the board, he said he could complete Covey's new project, but that would mean pushing back other important. Ultimately, Covey agreed to table the new project. Being transparent about the tradeoffs between adding more and more projects can be a great way to help management understand more is not always better.
+
+Habit 4: Think Win/Win
+
+The first 3 habits are about independence, and the next 3 habits are about interdependence. For Covey, being a part of a team that accomplishes something an individual could not achieve alone is the ultimate goal. Achieving this goal requires trust. He says individuals can have 1 of 6 paradigms in group dynamics
+
+Win/Win: A long-term mindset. This is a frame of mind that constantly seeks mutual benefit. Success is not achieved at the expense of others.
+Win/Lose: The authoritarian approach. Achieve success at the expense of others. The problem with this approach is authoritarians can not get good people to work for them as people with options will eventually leave. Win/Lose also creates a negative work culture (which he explains later)
+Lose/Win: Doormats. These people take losing for granted. They set low expectations and do not challenge their staff
+Lose/Lose: Happens when two spiteful Win/Win people face each other. They destroy business value, solely to block others.
+Win: Uninterested in the other side. Does not care about dominating the other side, but does not care about helping them either.
+Win/Win or No Deal: Covey says this is the optimal approach. It says individuals should only pursue deals that benefit both sides.
+Win/Win or no deal has the added benefit of improving company culture. Taking away the option for one party to exploit the other, forces parties to collaborate more and leads to more creative problem-solving and a long-term mindset.
+
+Habit 5: Seek First to Understand then to be Understood
+
+There is a quote I love that perfectly summarizes this chapter.
+
+Nobody cares how much you know, until they know how much you care
+If we are working from the end in mind and accept responsibility for our success and failure, then we accept ordering people around does not work. We can get angry about it, but that would be a waste of energy. By and large, human beings simply do not listen to hateful people. Knowing this, we choose to listen to others concerns. I know what many of you are thinking - this sounds like a lot of touch feely nonsense, but academic and organizational research proves psychological safety has a larger boost on team performance than individual IQ or technical skills. Now, of course, these reports come from Google, so it might be the case everyone had strong technical skills. The point though is a false dichotomy exists between technical and soft skills. It is actually the combination of the two that provides disproportionate business value.
+
+Understanding the value of treating others with respect, how then can we develop these skills? Covey recommends diagnosing before we prescribe. This means understanding the problem and the motives of the people involved before recommending a course of action. Covey says this is the mark of a true professional
+
+An effective sales person first seeks to understand the needs, the concerns, the situation of the customer. The amateur salesmen sells products; the professional sells solutions to needs and problems.
+Regardless of what we do, there is always someone else we need to get on board. Framing our solution in terms of how it benefits them will make us more successful.
+
+Habit 6: Synergize
+
+The final step in personal development is actually building things that intersect multiple disciplines. Covey calls this synergy. Synergy has become jargon in the years since this book was released, but it is an actual mathematical reality. It is often the case in regression models, for example, that adding the interaction of two features adds additional predictability.
+
+Covey gives two examples of positive and negative synergy. In the positive synergy example, David Lilienthal, the head of the Atomic Energy Commission, began his tenure by having his staff get to know each other. Keep in mind, these are very technical people. The interaction took time but had the desired effect. The group became so close-knit that their initial reaction during disagreement was to understand the other side's perspective. The attitude was "If a person of your intelligence and competence and commitment disagrees with me, then there must be something to your disagreement that I don't understand, and I need to understand it."
+
+Let us compare that with the negative synergy. In a negative synergy environment energy is wasted on politicking. Time is spent blaming others. The net effect is thousands of politicians and no scientists. Covey says it best.
+
+Insecure people think that reality should be amenable to their paradigms. They have a high need to clone others, to mold them over into their own thinking. They don't realize that the very strength of the relationship is in having another point of view. Sameness is not oneness; uniformity is not unity. Unity is complementariness, not sameness. Sameness is uncreative... and boring. The essence of synergy is to value the differences.
+Valuing differences then is an integral part of new discoveries.
+
+Habit 7: Sharpen the Saw
+
+We are nearly wrapping up this 1,800-word article on a 350-page book. The final chapter is the simplest but makes an important point. We are never done improving. After developing our character and becoming great teammates, we still continue to learn. We choose to develop our technical and personal skills every day. We choose to hold ourselves accountable for the mistakes we inevitably make. I'll end with an anecdote from Covey that succinctly summarizes the book.
+
+Suppose you come to someone in the woods working feverishly to saw down a tree.
+
+"What are you doing?" you ask.
+
+"Can't you see?" comes the impatient reply. "I'm sawing down the tree."
+
+"You look exhausted!" you exclaim "How long have you been at it?"
+
+"Over five hours," he returns "and I'm beat! This is hard work."
+
+"Well why don't you take a break for a few minutes and sharpen the saw?" you inquire. "I'm sure it would go a lot faster."
+
+"I don't have time to sharpen the saw," the man says emphatically. "I'm too busy sawing!"
+
+If our technical or personal skills are not up to our current job then we can always learn new ones.

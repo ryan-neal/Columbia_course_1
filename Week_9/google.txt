@@ -1,0 +1,58 @@
+For 2015, I have resolved to become an expert in the intricacies of tech business. To pursue my goal, I'm reading and summarizing one book each week. So far, I have summarized The Hard Thing about Hard Things and The Second Machine Age. This week I'm summarizing How Google Works and hopefully Smartcuts.
+
+Like the authors of The Second Machine Age, former Google CEO Eric Schmidt and Google employee Jonathan Rosenberg argue we must reconsider business practices as a result of changes in technology.
+
+In particular, the authors say the increasing speed of innovation and lower costs of prototyping have changed how Google plans operations. For example, the company trumps bottom up management rather than top down, product development rather than marketing, experimentation rather than analysis and openness rather than information hoarding. Ultimately, Google is able to balance all these goals through hiring "Smart Creatives".
+
+Bottom Up Management vs Top Down Management
+
+In the opening chapter of How Google Works, Jonathan tells a story of how he planned a "gate-based" project, what in most companies consists of milestone and executive reviews. Larry Page hated his meticulously designed plan.
+
+"Have you ever seen a scheduled plan that the team beat?" Larry asked.
+
+"Um, no," Jonathan said.
+
+"Have your teams ever delivered better products than what is in the plan?" Larry asked.
+
+"No," Jonathan said.
+
+"Then what's the point of the plan? It's holding us back," Larry said. "There must be a better way. Just go talk to the engineers."
+
+Before working at Google, Jonathan received an MBA and an econ degree. He was trained in typical top down management style. In the old MBA system organizations were designed to discourage innovation because mistakes were costly and not everyone had good information. Data only flowed up to executives, but Google realized early traditional organizational structure doesn't make sense any more. Mistakes are becoming less costly and failing to innovate is becoming more costly. Why not build your team from the engineering level up rather than management down?
+
+As a result, Sergey Brin and Larry Page decided to upend the gate-based model. They wanted to build Google around consensus building. Managers at Google generally start meetings with a softball. "I think we should poor hydrochloric acid on ourselves," for example. Their goal is to get everyone arguing.
+
+A proper consensus-driven process has elements of inclusion, cooperation, and equality. Above all it is solution oriented: The right decision is the best decision, not the lowest common denominator decision. And it's not always your solution. As Coach Wooden said, 'Be interested in finding the best way, not in having your own way.'
+Product First
+
+Jeff Bezos has a great quote on how the internet has changed product development.
+
+In the old world, you devoted 30 percent of your time to building a great service and 70 percent of your time to shouting about it. In the new world, that inverts
+Early on Google realized the relationship between product and marketing has changed. Products are more important today than ever before. For example, in the past, companies could win with poor products by inundating consumers with their message. Unfortunately for incumbents, the internet has taken a lot of marketing power from large companies and given it to consumers. Yelp, for example, makes it easier for high-quality upstart restaurants to compete with traditional chains through word of mouth advertising.
+
+Secondly, as mentioned before experimentation is cheaper. For example, the first Google Glass was built in only 90 minutes.
+
+Google changed product development in another meaningful way. In the past when companies planned to innovate, they examined their competitive advantage and expanded into adjacent markets. Google's strategy inverts the relationship. They look for technical insight first and then find the market later.
+
+How Google Innovates
+
+Google has three criteria when innovating. The idea has to address a big challenge or opportunity. The idea for the solution must be radically different than anything in the market. Finally, the breakthrough has to be feasible. Feasible in Google's context, is a pretty flexible term. For example, Project Loon, which hopes to offer internet to billions of people using helium balloons is feasible.
+
+So long as ideas meet these three criteria, Google employees are free to develop ideas in their 20 percent time. Twenty percent time is Google's policy, which allows engineers to spend 20 percent of their time working on anything they choose. The rule is hardwired into the company's DNA, so micro-managers can't refuse permission.
+
+Once an employee has a good 20 percent time idea, they have to build consensus and a team to get the project off the ground. The process actually works very similar to venture capital funding, but with people rather than money. The ideas with the most support survive.
+
+Once an idea gains support, engineers create a minimally viable product and ship. They get feedback from the market and ship again. If the product doesn't eventually gain users then the company pulls the plug.
+
+Google aspires to spend 70 percent of its time on existing revenue, 20 percent of its time on its emerging revenues and 10 percent of its time on new ideas. The genius of the company's structure is that it allows stability for the 70 percent time while also fostering a lean start up mindset to constantly develop new products.
+
+Communicate
+
+In his early days working at Google, Jonathan was called an expensive router because he spent a lot of time transferring information between departments. As mentioned earlier, traditionally information only flowed up to management in organizations, but if your goal is to provide everyone the opportunity to innovate then information has to spread in every direction.
+
+Power comes not from knowledge kept but from knowledge shared. A company's values and reward system should reflect that idea - Bill Gates
+Heeding Gates's advice, Google encourages communication. Marissa Mayer's for example, held office hours for new employees while at Google. Larry Page and Sergey Brin hold TGIF sessions every Friday where they answer any question. Audience members get green and red paddles to judge the quality of Larry and Sergey's answers. If they think an answer is lame they are asked to wave the red paddle. Everyone is expected to communicate at Google and everyone is accountable for bad answers (in a fun way), even Sergey and Larry.
+
+Smart Creatives
+
+At its core, Google is built on experimentation, bottom up management, communication and products. Google employees, Smart Creatives, hold the company together. Smart Creatives aren't straitjacketed by corporate process and they don't have deep expertise in a narrow set of skills. They are comfortable with data, communication and collaboration. They question the status quo and attack problems differently. In another environment they might seem odd or irreverent, but at Google they build the products that change the world.
